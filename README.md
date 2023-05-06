@@ -6,6 +6,7 @@ For some reason, BenQ decided to create an adapter for this display and sell it 
 
 ## Usage / Licence 
 Feel free donwload and use/modify the .stl file and images.
+
 Linking to the original work is apreciated.
 
 ## Project status
