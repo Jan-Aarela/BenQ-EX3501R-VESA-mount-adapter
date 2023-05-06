@@ -1,0 +1,1 @@
+# BenQ-EX3501R-VESA-mount-adapter
