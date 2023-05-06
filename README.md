@@ -8,5 +8,5 @@ For some reason, BenQ decided to create an adapter for this display and sell it 
 Feel free donwload and use/modify the .stl file and images.
 Linkign to the original work is apreciated.
 
-### Project status
+## Project status
 WIP 6.5.2023 -->
